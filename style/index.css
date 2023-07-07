@@ -66,7 +66,7 @@
     text-align: center;
     font-size: 40px;
     padding: 20px;
-    color: aliceblue;
+    color: black;
 }
 .Parent-IT{
     display: flex;
@@ -116,8 +116,15 @@
     justify-content: space-around;
     color: black;
     background-color: grey;
+    padding: 40px;
 }
 .End{
     text-align: center;
     background-color: grey;
+}
+.Heading-1{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
 }
