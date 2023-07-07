@@ -111,3 +111,13 @@
 .Last{
     background-color: black;
 }
+.Parent-last{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    background-color: grey;
+}
+.End{
+    text-align: center;
+    background-color: grey;
+}
