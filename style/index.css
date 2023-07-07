@@ -62,3 +62,19 @@
 .BTN:hover{
     color: yellow;
 }
+.Heading{
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+}
+.Parent-IT{
+    display: flex;
+    flex-direction: row-reverse;
+    /text-align: center;
+    justify-content: space-around;
+
+}
+.Title-2{
+    font-size:35px ;
+    padding: 20px 20px;
+}
