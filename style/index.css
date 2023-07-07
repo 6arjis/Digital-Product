@@ -66,6 +66,7 @@
     text-align: center;
     font-size: 40px;
     padding: 20px;
+    color: aliceblue;
 }
 .Parent-IT{
     display: flex;
@@ -77,4 +78,36 @@
 .Title-2{
     font-size:35px ;
     padding: 20px 20px;
+}
+.box{
+    width: 230px;
+    height: 280px;
+    box-shadow: 4px 4px 15px grey;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: whitesmoke;
+
+}
+.Icon{
+    width: 70px;
+}
+.BTN-1{
+    background-color:red;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    color: aliceblue;
+}
+.Web{
+    padding: 20px;
+}
+.Parent-Service{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+.Last{
+    background-color: black;
 }
